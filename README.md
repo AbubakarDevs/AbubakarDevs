@@ -1,80 +1,98 @@
-# 👋 Hi, I'm Muhammad Abubakar!
-> [cite_start]💡 Innovative and results-driven Data Engineer with over 4 years of experience in designing, building, and optimizing scalable data pipelines, ELT frameworks, and analytics platforms on **AWS**, **Databricks**, and **PySpark**[cite: 5].
+# 💫 Hi 👋, I'm Muhammad Abubakar
+💡 Innovative and results-driven Data Engineer with over 4 years of experience in designing, building, and optimizing scalable data pipelines, ELT frameworks, and analytics platforms on **AWS**, **Databricks**, and **PySpark**.
+**Senior Data Engineer || Cloud & Big Data Architect || AWS Specialist**
 
-[cite_start]👨🏻‍💻 **Senior Data Engineer** focused on Cloud Data Platforms, Big Data Analytics, and ETL Automation[cite: 50].
+Email Me 👉 ✉️ **abubakar.dataengineer@gmail.com** for Collaboration, Consulting, or Opportunities.
 
-[cite_start]📍 Currently seeking **Data Engineering or Cloud Data roles in Dubai or remote settings**[cite: 10].
+- 🔭 **I’m currently working on:** Building scalable Data Lakehouses using **AWS S3, Glue, and Databricks**.
+- 🌱 **I’m currently learning:** Advanced **DataOps**, Machine Learning Integration, and Cloud Governance.
+- 👯 **I’m looking to collaborate on:** Open-source **ETL frameworks** and **PySpark** optimization projects.
+- 🤔 **I’m looking for help with:** Advanced **Kubernetes** orchestration for data workloads.
+- 💬 **Ask me about:** AWS Architecture, **SQL Tuning**, Medallion Architecture, and **Cost Optimization**.
+- 📫 **How to reach me:** abubakar.dataengineer@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I've reduced cloud compute costs by 25% just by tuning PySpark jobs!
 
-🔗 Connect with me:
-* [cite_start]**Portfolio**: [dataengineerabubakar.vercel.app](https://dataengineerabubakar.vercel.app) [cite: 2]
-* [cite_start]**LinkedIn**: [linkedin.com/in/muhammadabubakar](https://linkedin.com/in/muhammadabubakar) [cite: 2]
+## 🔗 Let's Connect
+I am open to relocation and remote opportunities. Check out my portfolio below.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://dataengineerabubakar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadabubakar)
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AbubakarDevs&icon=5&color=12" alt="Visitor Count" />
+</div>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AbubakarDevs&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</div>
 
 ---
 
-## 🔥 Impact & Key Accomplishments
-[cite_start]My focus is on driving efficiency, cost-optimization, and robust architecture[cite: 9].
+# 💻 Tech Stack
+I specialize in transforming complex business data into actionable insights using these technologies:
 
-* [cite_start]**Cloud Cost Reduction:** Architected and deployed scalable ETL pipelines using AWS S3, Databricks, and PySpark, **cutting Databricks runtime costs by 25%** through Delta Lake optimization and PySpark performance tuning[cite: 19, 47].
-* [cite_start]**Automation & Throughput:** Automated **30+ production workflows** with Step Functions, Lambda, and Stonebranch, **improving delivery timelines and operational efficiency by 40%**[cite: 28, 48].
-* [cite_start]**Scalable Architecture:** Implemented **Medallion Architecture (Bronze-Silver-Gold)** on AWS S3 using Delta Lake and Glue Catalog for self-service analytics[cite: 27]. [cite_start]Built a Delta Lake data lakehouse on AWS S3 for **50M+ daily records**[cite: 33].
-* [cite_start]**Compliance & Security:** Ensured **HIPAA and AML compliance** via IAM policies, KMS encryption, and secure access management[cite: 29]. [cite_start]Designed **ODI 12c mappings** for **FCCM (TBAML and KYC) frameworks**[cite: 30].
-
----
-
-## 💻 Core Tech Stack (Cloud, Big Data & Databases)
-[cite_start]My proficiency spans the full data lifecycle, from ingestion to governance[cite: 7, 12, 14].
-
-### ☁️ Cloud & Big Data
-| Category | Technologies |
-| :--- | :--- |
-| **Cloud** | [cite_start]AWS (EMR, Glue, Athena, Step Functions, S3, Redshift, RDS, DynamoDB, CloudWatch) [cite: 12] |
-| **Big Data** | [cite_start]PySpark, Databricks, Delta Lake, Medallion Architecture, Oracle Data Integrator (ODI 12c) [cite: 12] |
-
+### ☁️ Cloud & AWS Services
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache%20Spark-E35A16?style=for-the-badge&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-045353?style=for-the-badge&logo=delta-lake&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-293E52?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Step Functions](https://img.shields.io/badge/Step%20Functions-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Amazon EMR](https://img.shields.io/badge/Amazon_EMR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-293E52?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Step Functions](https://img.shields.io/badge/Step_Functions-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🗄️ Databases & Programming
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🚀 Big Data & Architecture
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00B5E2?style=for-the-badge&logo=delta&logoColor=white)
+![Oracle Data Integrator](https://img.shields.io/badge/ODI_12c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 👨‍💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-307FC1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🛠️ Tools & Governance
+![Stonebranch](https://img.shields.io/badge/Stonebranch-000000?style=for-the-badge&logo=server&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Toad](https://img.shields.io/badge/Toad-000000?style=for-the-badge&logo=database&logoColor=white)
+![WebLogic](https://img.shields.io/badge/WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-## 📈 My GitHub Activity
+# 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarDevs&theme=radical&layout=compact&langs_count=6" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbubakarDevs&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbubakarDevs&theme=radical&hide_border=false" />
+</div>
 
-I've included GitHub stats, top languages, and a streak tracker to showcase your consistent activity.
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### GitHub Stats & Streak
-![](https://github-readme-stats.vercel.app/api?username=AbubakarDevs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-![](https://github-readme-streak-stats.demolab.com/?user=AbubakarDevs&theme=radical)
-
-### Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarDevs&layout=compact&langs_count=6&theme=radical)
-
----
-
-## 💡 Projects & Demos
-Check out these repositories for demonstrations of my work in Data Engineering. *(Note: You should create or link these repositories.)*
-
-| Project Title | Technologies | Description |
-| :--- | :--- | :--- |
-| **PySpark Cost Optimization** | PySpark, Delta Lake, Databricks | [cite_start]Demonstrations of performance tuning techniques (e.g., Z-Ordering, Partitioning) that led to the **25% compute cost savings**[cite: 47]. |
-| **Medallion Lakehouse on AWS** | S3, Glue, Step Functions, Athena | [cite_start]A serverless project demonstrating the Bronze, Silver, and Gold data layers handling large-scale data ingestion and transformation[cite: 27, 33]. |
-| **Compliance Data Flow (ODI)** | Oracle Data Integrator 12c, Oracle | [cite_start]Custom ODI mappings and ingestion workflows designed for regulatory compliance (FCCM/AML/KYC)[cite: 30, 35]. |
-
----
-
-## 🎓 Education
-* [cite_start]**Bachelor of Science in Computer Science (BSCS)** [cite: 42]
-    * [cite_start]National University of Sciences and Technology (NUST), Pakistan (2017-2021) [cite: 43, 45]
-
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AbubakarDevs&limit=5&theme=radical&combine_all_yearly_contributions=true)
